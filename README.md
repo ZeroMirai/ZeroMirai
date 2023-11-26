@@ -9,7 +9,7 @@ Ever since I was a child, I’ve been captivated by the magic of creating games 
 * 🌍  I'm based in Thailand
 * ✉️  You can contact me at [SurasakHwangcharoen01@gmail.com](mailto:SurasakHwangcharoen01@gmail.com)
 * 🧠  I'm learning Python GUI, UX design
-* 🤝  I'm open to collaborating on my project or any project that includes Japanese culture."
+* 🤝  I'm open to collaborating on my project or any project that includes Japanese culture
 * ⚡  I'm a secret Japanese nerd... but shh, don't tell anyone.
 
 ### Skills
